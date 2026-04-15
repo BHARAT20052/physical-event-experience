@@ -1,8 +1,8 @@
-# Mission Bharat
+# Vortex
 
 **Smart Venue Platform for Large-Scale Sporting Events**
 
-Mission Bharat is an integrated solution designed to improve the physical event experience for attendees at large-scale sporting venues across India. The platform addresses critical challenges such as crowd movement, waiting times, and real-time coordination while ensuring a seamless and enjoyable experience.
+Vortex is an integrated solution designed to improve the physical event experience for attendees at large-scale sporting venues across India. The platform addresses critical challenges such as crowd movement, waiting times, and real-time coordination while ensuring a seamless and enjoyable experience.
 
 ## 🏗️ System Architecture
 
@@ -70,7 +70,7 @@ Mission Bharat is an integrated solution designed to improve the physical event 
 ## 📦 Installation
 
 ```bash
-cd missionbharat
+cd Vortex
 npm install
 ```
 
@@ -154,7 +154,7 @@ npm run dev
 ## 📁 Project Structure
 
 ```
-missionbharat/
+Vortex/
 ├── public/
 │   ├── manifest.json
 │   └── ...

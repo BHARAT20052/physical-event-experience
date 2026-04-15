@@ -1,6 +1,6 @@
 {
-  "name": "Mission Bharat",
-  "short_name": "Bharat",
+  "name": "Vortex",
+  "short_name": "Vortex",
   "description": "Smart venue platform for seamless event experiences",
   "start_url": "/app",
   "display": "standalone",
