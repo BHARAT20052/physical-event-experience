@@ -87,7 +87,7 @@ function App() {
           <button onClick={() => setShowMenu(!showMenu)} className="p-2">
             <Menu size={24} />
           </button>
-          <h1 className="text-xl font-bold">Mission Bharat</h1>
+          <h1 className="text-xl font-bold">Vortex</h1>
           <div className="w-10" />
         </div>
 

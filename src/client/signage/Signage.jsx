@@ -72,7 +72,7 @@ function Signage() {
       {/* Top Bar */}
       <div className="bg-bharat-saffron text-white p-4 flex items-center justify-between">
         <div className="flex items-center gap-4">
-          <h1 className="text-3xl font-bold">Mission Bharat</h1>
+          <h1 className="text-3xl font-bold">Vortex</h1>
           <span className="text-xl opacity-90">| {venue?.name}</span>
         </div>
         <div className="flex items-center gap-6">
@@ -325,7 +325,7 @@ function WaitTimesSlide({ concessions }) {
 
       <div className="mt-6 p-4 bg-blue-500/10 border border-blue-500/30 rounded-lg">
         <p className="text-center">
-          <span className="text-bharat-saffron font-bold">Tip:</span> Order food through the Mission Bharat app to skip the queue!
+          <span className="text-bharat-saffron font-bold">Tip:</span> Order food through the Vortex app to skip the queue!
         </p>
       </div>
     </div>

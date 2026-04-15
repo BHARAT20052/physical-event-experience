@@ -128,7 +128,7 @@ function Dashboard() {
       <header className="bg-gray-800 border-b border-gray-700 p-4">
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-2xl font-bold text-bharat-saffron">Mission Bharat</h1>
+            <h1 className="text-2xl font-bold text-bharat-saffron">Vortex</h1>
             <p className="text-gray-400">Command Center</p>
           </div>
           <div className="flex items-center gap-4">

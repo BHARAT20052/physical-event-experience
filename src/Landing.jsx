@@ -12,9 +12,9 @@ function Landing() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 bg-gradient-to-br from-bharat-saffron to-bharat-green rounded-lg flex items-center justify-center">
-                <span className="text-xl font-bold">MB</span>
+                <span className="text-xl font-bold">VX</span>
               </div>
-              <span className="text-2xl font-bold">Mission Bharat</span>
+              <span className="text-2xl font-bold">Vortex</span>
             </div>
             <div className="flex gap-6">
               <a href="#features" className="text-gray-300 hover:text-white transition-colors">Features</a>
@@ -27,10 +27,10 @@ function Landing() {
         <div className="container mx-auto px-6 py-24 relative z-10">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-6xl font-bold mb-6 bg-gradient-to-r from-bharat-saffron via-white to-bharat-green bg-clip-text text-transparent">
-              Transforming India's Sporting Venue Experience
+              Transforming the Sporting Venue Experience
             </h1>
             <p className="text-xl text-gray-300 mb-8">
-              A smart platform that eliminates crowd chaos, reduces wait times, and ensures seamless coordination at large-scale sporting events across Bharat.
+              A smart platform that eliminates crowd chaos, reduces wait times, and ensures seamless coordination at large-scale sporting events everywhere.
             </p>
             <div className="flex gap-4 justify-center">
               <a href="/app.html" className="btn-primary text-lg px-8 py-4">
@@ -59,7 +59,7 @@ function Landing() {
         <div className="container mx-auto px-6">
           <h2 className="text-4xl font-bold text-center mb-4">The Challenge</h2>
           <p className="text-xl text-gray-400 text-center mb-16 max-w-3xl mx-auto">
-            Large sporting venues in India face critical challenges that impact safety and attendee experience
+            Large sporting venues face critical challenges that impact safety and attendee experience
           </p>
 
           <div className="grid md:grid-cols-3 gap-8">
@@ -87,7 +87,7 @@ function Landing() {
         <div className="container mx-auto px-6">
           <h2 className="text-4xl font-bold text-center mb-4">Our Solution</h2>
           <p className="text-xl text-gray-400 text-center mb-16 max-w-3xl mx-auto">
-            Mission Bharat provides an integrated platform addressing every aspect of the venue experience
+            Vortex provides an integrated platform addressing every aspect of the venue experience
           </p>
 
           <div className="grid md:grid-cols-2 gap-8">
@@ -247,7 +247,7 @@ function Landing() {
         <div className="container mx-auto px-6 text-center">
           <h2 className="text-4xl font-bold mb-6">Ready to Transform Your Venue?</h2>
           <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Mission Bharat is designed for India's unique venue challenges, built with compliance to DPDP Act 2023 and optimized for Indian sporting culture.
+            Vortex is designed for unique venue challenges, built with compliance to modern data standards and optimized for high-performance sporting culture.
           </p>
           <div className="flex gap-4 justify-center">
             <a href="/app.html" className="btn-primary text-lg px-8 py-4">
@@ -266,8 +266,8 @@ function Landing() {
       {/* Footer */}
       <footer className="py-8 border-t border-gray-800">
         <div className="container mx-auto px-6 text-center text-gray-400">
-          <p>Mission Bharat - Smart Venue Platform for India</p>
-          <p className="text-sm mt-2">Built for large-scale sporting events across Bharat</p>
+          <p>Vortex - Smart Venue Platform</p>
+          <p className="text-sm mt-2">Built for large-scale sporting events</p>
         </div>
       </footer>
     </div>
